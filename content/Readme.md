@@ -1,4 +1,4 @@
-**Welcome to My Bible Study Notes Repository**
+## **Welcome to My Bible Study Notes Repository**
 
 Thank you for visiting my online repository of Bible study notes. Here, you'll find insights, reflections, and analyses on various characters, events, and personal studies from the Bible. Below are some key points about this site and how you can get in touch with me:
 
