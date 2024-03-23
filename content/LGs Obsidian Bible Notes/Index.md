@@ -4,7 +4,10 @@ longform:
   title: LGs Obsidian Bible Notes
   workflow: Default Workflow
   sceneFolder: /
-  scenes: []
+  scenes:
+    - Biblical Characters
+    - Let us see
+    - 00 - Home
   sceneTemplate: Misc/Templates/New Note.md
   ignoredFiles: []
 ---
