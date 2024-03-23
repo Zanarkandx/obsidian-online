@@ -8,3 +8,4 @@ tags:
 
 [[Biblical Locations]]
 
+[[Biblical Objects]]

@@ -15,3 +15,9 @@ tags:
 > [[Moses]]
 > [[Eli]]
 > 
+
+
+```dataview
+table testament as Testament, file.mtime as modification, role, gender from "content/LGs Obsidian Bible Notes/Study/People" 
+sort file.mtime desc
+```
