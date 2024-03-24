@@ -17,3 +17,6 @@ Thank you for visiting my online repository of Bible study notes. Here, you'll f
 - Discussion Forums: Additionally, I encourage you to participate in the discussion forums available on the site to engage with other visitors and share insights.
 
 Thank you for exploring my Bible study notes repository. I hope you find the content enriching and thought-provoking. Feel free to reach out with any inquiries or contributions. Happy studying!
+
+Start [[00 - Home|Here!]]
+
