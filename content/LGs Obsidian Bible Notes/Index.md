@@ -5,7 +5,6 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Biblical Characters
     - Let us see
     - 00 - Home
     - Biblical Locations
