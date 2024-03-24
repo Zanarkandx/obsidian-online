@@ -6,8 +6,6 @@ longform:
   sceneFolder: /
   scenes:
     - Let us see
-    - 00 - Home
-    - Biblical Locations
   sceneTemplate: Misc/Templates/New Note.md
   ignoredFiles: []
 ---
